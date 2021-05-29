@@ -1,5 +1,10 @@
 # ShuffleAndSort
 
+The page consists of 9 numbered cards which can be manipulated by using the shuffle and short buttons.
+Using JavaScript, allow the user to:
+ 1. Click the shuffle button to randomly rearrange the order of the cards
+ 2. Click the sort button to place the cards in ascending order (1 – 9)
+
 ### Technology used :
 #### HTML, CSS, Bootstrap 4 , Javascript
 
